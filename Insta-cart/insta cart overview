@@ -1,0 +1,3 @@
+Dữ liệu insta-cart gồm 32 triệu dòng: Dữ liệu lớn
+Xử lý dữ liệu: chia dữ liệu thành các chunk, mỗi chunk 500 ngàn dòng để xử lý, thư viện pandas hỗ trợ
+Trực quan hóa dữ liệu
